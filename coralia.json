@@ -1,0 +1,32 @@
+{
+		"comunion": [
+				{
+						"titulo": "En Dios he puesto mi esperanza",
+						"url" :"youtube.com",
+						"integrantes": 3
+				}
+		],
+
+		"kyrie": [
+		
+				{
+						"titulo": "Stella Matutina",
+						"url" : "youtube.com",
+						"integrantes": 4
+				},	
+				{
+						"titulo": "Stella Matutina",
+						"url" : "youtube.com",
+						"integrantes": 4
+				}
+		],
+		"gloria": [
+		
+				{
+						"titulo": "Gloria comuntitario",
+						"ur": "youtube.com",
+						"integrantes": 4
+				}
+		]
+		
+}

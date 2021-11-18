@@ -1,0 +1,456 @@
+{
+		"cortejo" : [
+				{
+						"titulo":"Canon",
+						"autor"	:"Pachelbel",
+						"canto"	:"cortejo",
+						"video": "oKfQbkzpHX4",
+						"integrantes" : 4,
+						"id":"1"
+				}
+		],
+		"entrada" : [
+		
+					{
+						"titulo":"Marcha Nupcial",
+						"autor"	:"F Mendhelsson",
+						"canto"	:"entrada",
+						"video": "ba6JwjoAWjw",
+						"integrantes" : 5,
+						"id":"4"
+					},
+					{
+						"titulo":"Alma Bendice al Senor",
+						"autor":"J S Bach",
+						"canto": "entrada",
+						"video": "Jf8LiXr5410",
+						"integrantes" : 3,
+						"id":"5"
+					},
+					{
+						"titulo":"Canticorum Jubilo",
+						"autor":"G F Haendel",
+						"canto":"entrada",
+						"video":"eMieK_Hghu8",
+						"integrantes" : 3,
+						"id":"6"
+					},
+					{
+						"titulo":"Canticorum Jubilo Instrumental",
+						"autor":"G F Haendel",
+						"canto":"entrada",
+						"video":"R3ZgOh0jGUE",
+						"integrantes" : 3,
+						"id":"7"
+					},
+					{
+						"titulo" : "Cerca de tí",
+						"autor": "L Masson", 
+						"canto": "entrada",
+						"video" : "WuVReMJsTAo",
+						"integrantes" : 3,
+						"id": "30"
+					},
+					{
+						"titulo":"Alma Bendice al Senor 6 elementos",
+						"autor":"J S Bach",
+						"canto": "entrada",
+						"video": "6C1l2IZDDXQ",
+						"integrantes" : 6,
+						"id":"52"
+					},
+					{
+						"titulo" : "Canon",
+						"autor" : "Pachelbel",
+						"canto" : "entrada",
+						"video" : "XJF9gxt7Pwk",
+						"integrantes" : 3,
+						"id" : "39"
+					}
+		],
+		"senior ten piedad":[
+					{
+						"titulo":"Kyrie de la misa en Honor a Santa Lucía",
+						"autor":"L. Botazzo",
+						"canto":"kyrie",
+						"video": "MwFxGA-V6vg",
+						"integrantes" : 5,
+						"id":"10"
+					},
+					{
+						"titulo": "Senor ten piedad de la Misa Melodica",
+						"autor": "A Mejia",
+						"canto": "kyrie",
+						"video":"fxum7I5RmvA",
+						"integrantes" : 3,
+						"id":"11"
+					},
+					{
+						"titulo": "Senor ten piedad Hosana",
+						"autor" : "Camacho",
+						"canto" : "Kyrie",
+						"video" : "DBVeaX2KyZE",
+						"integrantes" : 3,
+						"id": "29"
+					},
+					{
+						"titulo": "Senor ten piedad Hosana 6 elementos",
+						"autor" : "Camacho",
+						"canto" : "Kyrie",
+						"video" : "aMXR4mMin8Y",
+						"integrantes" : 6,
+						"id": "49"
+					},
+					{
+						"titulo" : "Kyrie de la misa Brevis k220 6 elementos",
+						"autor" : "W A Mozart",
+						"canto" : "k220",
+						"video" : "_QzwcRtPZXo",
+						"integrantes" : 6,
+						"id" : "47"
+					},
+					{
+						"titulo" : "Senor ten piendad 4 elementos",
+						"autor" : "A Mejía",
+						"canto" : "kyrie",
+						"video" : "YxbhXKMy2zs",
+						"integrantes" : 4,
+						"id" : "38"
+					}
+		
+		],
+		"gloria":[
+					{
+						"titulo": "Gloria de la misa Stella Matutina",
+						"autor"	: "Vito Carnevalli",
+						"canto"	: "gloria",
+						"video": "sD1J7YROorQ",
+						"integrantes" : 5,
+						"id":"9"
+					},
+					{
+						"titulo" : "Gloria de la misa de Coronación 6 elementos",
+						"autor" : "W A Mozart",
+						"canto" : "Gloria",
+						"video" : "6JGISFWCnIc",
+						"integrantes" : 6,
+						"id" : "46"
+					}
+		],
+		"aleluya" : [
+					{
+						"titulo": "Aleluya Mozart con 6 elementos",
+						"autor"	: "W A Mozart",
+						"canto"	: "aleluya",
+						"video": "Rqk0IAFYf0M",
+						"integrantes" : 6,
+						"id":"12"
+					},
+					{
+						"titulo": "Aleluya-Honor y Gloria",
+						"autor"	: "Gabarain",
+						"canto"	: "aleluya",
+						"video": "ipohKNMZjoQ",
+						"integrantes" : 3,
+						"id":"13"
+					},
+					{
+						"titulo": "Aleluya Mozart con 3 elementos",
+						"autor" : "W A Mozart",
+						"canto" : "aleluya",
+						"video" : "OsOxjM8AHvU",
+						"integrantes" : 3,
+						"id": "28"
+					},
+					{
+						"titulo" : "Aleluya Cohen",
+						"autor" : "Cohen",
+						"canto" : "aleluya",
+						"video" : "bnO2NjdJNV4",
+						"integrantes" : 4,
+						"id" : "50"
+					},
+					{
+						"titulo" : "Aleluya Cohen",
+						"autor" : "Cohen",
+						"canto" : "aleluya",
+						"video" : "T1yxnC0lwrg",
+						"integrantes" : 6,
+						"id" : "45"
+					}
+		],
+		"ofertorio" : [
+					{
+						"titulo": "Esto que te doy",
+						"autor"	: "popular",
+						"canto"	: "ofertorio",
+						"video": "LJ5LUX5pZaU",
+						"integrantes" : 5,
+						"id":"14"
+					},
+					{
+						"titulo" : "Vino y pan ",
+						"autor" : "Camacho",
+						"canto" : "ofertorio",
+						"video": "GgDdydNltTc",
+						"integrantes" : 3,
+						"id": "29"
+					}
+		
+		],
+		"santo" : [
+					{
+						"titulo": "Santo de la Misa Stella Matutina",
+						"autor" : "Vito Carnevalli",
+						"canto" : "santo",
+						"video": "MCufhgf_-Eg",
+						"integrantes" : 3,
+						"id":"16"
+					},
+					{
+						"titulo": "Santo ",
+						"autor": "A Mejía",
+						"canto" :"santo",
+						"video": "2ai3LEi0Qv0",
+						"integrantes" : 3,
+						"id":"17"
+					},
+					{
+						"titulo" : "Sanctus Misa Stella Matutina",
+						"autor" : "Vito Carnevalli",
+						"canto" : "sanctus",
+						"video": "_Akm89Tsc4Y",
+						"integrantes" : 3,
+						"id" : "27"
+					},
+					{
+						"titulo" : "Santo 6 elementos",
+						"autor" : "A Mejía",
+						"canto" : "sanctus",
+						"video" : "Ys7KAhr4R_I",
+						"integrantes" : 6, 
+						"id" : "53"
+					},
+					{
+						"titulo" : "Santus de la misa Brevis k220 6 elementos",
+						"autor" : "W A Mozart",
+						"canto" : "sanctus",
+						"video" : "HIeyV_f1OOE",
+						"integrantes" : 7,
+						"id" : "43"
+					},
+					{
+						"titulo" : "Santus de la misa Brevis k220",
+						"autor" : "W A Mozart",
+						"canto" : "sanctus",
+						"video" : "DCwH15aM2qA",
+						"integrantes" : 9,
+						"id" : "40"
+					},
+					{
+						"titulo" : "Sanctus 4 elementos",
+						"autor" : "V Carnevalli",
+						"canto" : "sanctus",
+						"video" : "crK-WN6qQuY",
+						"integrantes" : 4,
+						"id" : "37"
+					}
+		
+		],
+		"cordero" : [
+					{
+						"titulo": "Agnus Dei de la Misa Stella Matutina",
+						"autor"	: "Vito Carnevalli",
+						"canto"	: "agnus dei",
+						"video":"iOpjmbWyqOc",
+						"integrantes" : 3,
+						"id":"18"
+					},
+					{
+						"titulo": "Cordero de Dios",
+						"autor"	: "A Mejía",
+						"canto"	: "agnus dei",
+						"video": "G1cvTovHf3w",
+						"id":"19"
+					},
+					{
+						"titulo" : "Cordero de Dios 4 elementos",
+						"autor" : "A Mejía",
+						"canto" : "agnus",
+						"video" : "iqpFYwDWTu8",
+						"integrantes" : 4,
+						"id" : "35"
+					}
+		
+		],
+		"comunion" : [
+					{
+						"titulo": "Entre tus manos",
+						"autor"	: "popular",
+						"canto"	: "comunion",
+						"video":"KS26-zWRY38",
+						"integrantes" : 5,
+						"id":"20"
+					},
+					{
+						"titulo": "Ave María",
+						"autor"	: "F Schubert",
+						"canto"	: "postcomunion",
+						"video": "6zZOdxUUTDA",
+						"integrantes" : 3,
+						"id":"21"
+					},
+					{
+						"titulo": "Jesus Alegría de los hombres",
+						"autor"	: "J S Bach",
+						"canto"	: "comunion",
+						"video": "S0R_FXcOpTM",
+						"integrantes" : 3,
+						"id":"22"
+					},
+					{
+						"titulo": "Nadie te ama como yo",
+						"autor"	: "Martín Valverde",
+						"canto"	: "comunion",
+						"video": "BGPzZRmGhSY",
+						"integrantes" : 3,
+						"id":"23"
+					},
+					{
+						"titulo":"Panis Angelicus",
+						"autor":"Franck",
+						"canto": "comunion",
+						"video": "4sAmXbzuS7k",
+						"integrantes" : 3,
+						"id":"24"
+					},
+					{
+						"titulo": "Ave Maria Bach",
+						"autor": "Bach-Gounod",
+						"canto" :"postcomunion",
+						"video": "g0nq1-lBSgM",
+						"integrantes" : 3,
+						"id":"25"
+					},
+					{
+						"titulo": "Esto que te doy",
+						"autor":"canto popular",
+						"canto": "comunion",
+						"video":"LJ5LUX5pZaU",
+						"integrantes" : 5,
+						"id":"24"
+					},
+					{
+						"titulo": "De aquí hasta el final",
+						"autor": "popular",
+						"canto": "comunion",
+						"video": "35VjgAH94uw",
+						"integrantes" : 5,
+						"id":"25"
+					},
+					{
+						"titulo": "Ave Maria Bach",
+						"autor": "Bach-Gounod",
+						"canto" :"postcomunion",
+						"video": "qLoHTnivDRI",
+						"integrantes" : 3,
+						"id":"51"
+					},
+					{
+						"titulo" : "Ave Verum Corpus 6 elementos", 
+						"autor" : "W A Mozart",
+						"canto" : "comunion",
+						"video" : "tsGGASv6piY",
+						"integrantes" : 6,
+						"id" : "48"
+					},
+					{
+						"titulo" : "Jesús alegría de los hombres 6 elementos",
+						"autor" : "J S Bach",
+						"canto" : "ofertorio",
+						"video" : "T1yxnC0lwrg",
+						"integrantes" : 6,
+						"id" : "44"
+					},
+					{
+						"titulo" : "Jesús Alegría de los Hombres 9 elementos", 
+						"autor" : "J S Bach",
+						"canto": "ofertorio",
+						"video" : "75LHFA2ENUI",
+						"integrantes" : 9,
+						"id" : "41"
+					},
+					{
+						"titulo" : "Panis Angelicus 4 elementos",
+						"autor" : "C Franck",
+						"canto" : "comunion",
+						"video" : "7-vguxc7RLc",
+						"integrantes" : 4,
+						"id" : "36"
+					},
+					{
+						"titulo" : "Ave María 4 elementos", 
+						"autor" : "F Schubert",
+						"canto" : "comunion",
+						"video" : "NYC7IMWMbW0",
+						"integrantes" : 4,
+						"id" : "34"
+					},
+					{
+						"titulo": "Domine Fili Unigenite",
+						"autor": "Vivaldi",
+						"canto" : "comunion",
+						"video" : "ZcSLm-3-0mY",
+						"integrantes" : 9,
+						"id" : "32"
+					},
+					{
+						"titulo" : "Pie Jesu",
+						"autor" : "G Faure",
+						"canto" : "comunion",
+						"video" : "9um9cv_zrLg",
+						"integrantes" : 3,
+						"id": "31"
+					}
+		],
+		"salida" : [
+					{
+						"titulo":"Himno a la alegría",
+						"autor":"Beethoven",
+						"canto": "salida",
+						"video": "pTdgmpKmjsU",
+						"integrantes" : 6,
+						"id":"23"
+					},
+					{
+						"titulo" : "Himno a la Alegría 6 elementos",
+						"autor" : "Beethoven",
+						"canto" : "salida", 
+						"video" : "Ay9h0eJJQME",
+						"integrantes" : 7,
+						"id" : "42"
+					},
+					{
+						"titulo" : "Himno a la Alegría 9 elementos",
+						"autor" : "Beethoven",
+						"canto" : "salida",
+						"video" : "U-R6qyKhmOQ",
+						"integrantes" : 9,
+						"id": "33"
+					}
+		],
+		
+		"demos" : [
+		
+					{
+						"titulo": "demo 3 elementos",
+						"autor" : "varios",
+						"canto" : "varios",
+						"video": "mC4FVWC-zYg",
+						"integrantes" : 4,
+						"id": "26"
+					}
+		]
+
+
+}

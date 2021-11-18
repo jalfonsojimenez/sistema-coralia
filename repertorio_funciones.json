@@ -1,0 +1,28 @@
+{
+		"Alma bendice": {
+				"titulo" : "Alma Bendice al Senior",
+				"canto" : "entrada",
+				"integrantes" : 3,
+				"tags" : ["boda","todo","3 integrantes"]
+		},
+		"canon": {
+				"titulo" : "canon",
+				"canto" : "entrada",
+				"integrantes" : 4,
+				"tags" : ["boda","2 integrantes","recomendado"]
+		},
+		"jesus alegria":{
+				"titulo" : "jesus alegria",
+				"canto" : "comunion",
+				"integrantes" : 4,
+				"tags": ["todo","3 integrantes","recomendado"]
+		
+		},
+		"pie jesu" : {
+				"titulo" : " pie jesu",
+				"canto" : "comunion",
+				"integrantes": 5,
+				"tags" : ["funeral","5 integrantes"]
+		}
+
+}

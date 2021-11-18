@@ -1,0 +1,19 @@
+{
+		"canto" : [
+				 "entrada",
+				 "cortejo"
+		],
+		"integrantes" : [
+		
+				 2,
+				 3,
+				 4
+		],
+		
+		"evento" : [
+				 "boda",
+				 "quince anios",
+				 "funeral"
+		]
+		
+}
